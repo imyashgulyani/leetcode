@@ -9,5 +9,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/imyashgulyani/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/imyashgulyani/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/imyashgulyani/leetcode/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/imyashgulyani/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/imyashgulyani/leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
